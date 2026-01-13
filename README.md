@@ -1,9 +1,11 @@
 # 👋 Olá, eu sou Luana!
 **📩Luana.lop799@gmail.com**
 
-🎓 **Estudante de Sistemas de Informação, atualmente foco minha especialização voltada para a área de Dados!**
-   **Explorando **Python**, **SQL**, **Power BI**, **ETL**, **Modelagem de Dados**  
-   **Apaixonada por transformar dados em insights e criar soluções inteligentes!  
+
+ **Estudante de Sistemas de Informação**, atualmente focada em especialização na área de **Dados**!  
+💻 Explorando **Python**, **SQL**, **Power BI**, **ETL** e **Modelagem de Dados**  
+🚀 Apaixonada por **transformar dados em insights** e criar **soluções inteligentes**!  
+
 
 ---
 
