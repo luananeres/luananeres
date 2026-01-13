@@ -1,4 +1,5 @@
 # 👋 Olá, eu sou Luana!
+**📩Luana.lop799@gmail.com**
 
 🎓 **Estudante de Engenharia de Dados e Análise de Dados**  
    **Explorando **Python**, **SQL**, **Power BI**, **ETL**, **Modelagem de Dados**  
