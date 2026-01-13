@@ -7,7 +7,7 @@ Apaixonada por transformar dados em insights e criar soluções inteligentes!
 ---
 
 ## 🌟 Sobre mim
-- 📍 Moro em Jeceaba, MG
+- 📍 Moro em Ouro Branco, MG
 - 🎯 Objetivo: Me tornar especialista em Engenharia de Dados
 - 🌱 Atualmente aprendendo: **Engenharia de Dados**, **Databricks**, **Arquitetura de Big Data**, **Sistemas Distribuídos**
 - 💡 Curiosidade: Adoro criar dashboards interativos e otimizar queries!
