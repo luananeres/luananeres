@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Luana!
 
 🎓 **Estudante de Engenharia de Dados e Análise de Dados**  
-💻 Explorando **Python**, **SQL**, **Power BI**, **ETL**, **Modelagem de Dados**  
-🚀 Apaixonada por transformar dados em insights e criar soluções inteligentes!  
+Explorando **Python**, **SQL**, **Power BI**, **ETL**, **Modelagem de Dados**  
+Apaixonada por transformar dados em insights e criar soluções inteligentes!  
 
 ---
 
