@@ -9,7 +9,7 @@
 ## 🌟 Sobre mim
 - 📍 Moro em Ouro Branco, MG
 - 🎯 Objetivo: Me tornar especialista em Engenharia de Dados
-- 🌱 Atualmente aprendendo: **Engenharia de Dados**, **Databricks**, **Arquitetura de Big Data**!
+- 🌱 Atualmente aprendendo: **Engenharia de Dados**
 
 ---
 
@@ -24,7 +24,3 @@
 
 ---
 
-## 📚 O que estou estudando agora
-- Engenharia de Dados
-- Pipelines de Dados com Python e Spark
-- Databricks e Big Data
