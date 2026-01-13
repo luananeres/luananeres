@@ -1,16 +1,15 @@
 # 👋 Olá, eu sou Luana!
 
 🎓 **Estudante de Engenharia de Dados e Análise de Dados**  
-     Explorando **Python**, **SQL**, **Power BI**, **ETL**, **Modelagem de Dados**  
-     Apaixonada por transformar dados em insights e criar soluções inteligentes!  
+   **Explorando **Python**, **SQL**, **Power BI**, **ETL**, **Modelagem de Dados**  
+   **Apaixonada por transformar dados em insights e criar soluções inteligentes!  
 
 ---
 
 ## 🌟 Sobre mim
 - 📍 Moro em Ouro Branco, MG
 - 🎯 Objetivo: Me tornar especialista em Engenharia de Dados
-- 🌱 Atualmente aprendendo: **Engenharia de Dados**, **Databricks**, **Arquitetura de Big Data**, **Sistemas Distribuídos**
-- 💡 Curiosidade: Adoro criar dashboards interativos e otimizar queries!
+- 🌱 Atualmente aprendendo: **Engenharia de Dados**, **Databricks**, **Arquitetura de Big Data**!
 
 ---
 
