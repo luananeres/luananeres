@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luana!
+# 👋 Olá, eu sou a Luana!
 **📩Luana.lop799@gmail.com**
 
 
